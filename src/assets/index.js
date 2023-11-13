@@ -24,6 +24,7 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import working_out1 from "./first-img.png"
 import working_out2 from "./second-img.webp"
+import test from "./test.mp4"
 
 export {
   airbnb,
@@ -52,4 +53,5 @@ export {
   people03,
   working_out1,
   working_out2,
+  test,
 };
