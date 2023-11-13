@@ -3,7 +3,6 @@ import {
   Billing, 
   Business, 
   CardDeal, 
-  Clients, 
   CTA, 
   Footer, 
   Hero, 
