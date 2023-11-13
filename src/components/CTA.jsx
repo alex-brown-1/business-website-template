@@ -12,7 +12,7 @@ const CTA = () => {
         </p>
       </div>
       <div className={`${styles.flexCenter} sm:ml-10 ml-0`}>
-      <video src="../../test.mov" width="600" height="300" controls="controls" autoplay="true" />
+      <video src="../../test.mp4" width="600" height="300" controls="controls" autoplay="true" />
       </div>
     </section>
   )
