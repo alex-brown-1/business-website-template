@@ -13,8 +13,8 @@ const Hero = () => {
             className='w-[32px] h-[32px]'
           />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className='text-white'>20%</span> Discount For {" "}
-            <span className='text-white'>1 Month</span> Account
+            <span className='text-white'>100%</span> Secured By {" "}
+            <span className='text-white'>Arweave</span>
           </p>
         </div>
         <div className='flex flex-row justify-between items-center w-full'>
@@ -27,11 +27,11 @@ const Hero = () => {
           </div>
         </div>
         <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>
-          Payment Method.
+          Of Fitness
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. 
-        We examine annual percentage rates, annual fees.  
+        CoachGym AI analyzes human motion to provide real time training feedback to 
+        create safer and more effective exercise for therapy and fitness.  
         </p>
       </div>
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

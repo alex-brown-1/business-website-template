@@ -30,7 +30,7 @@ export const navLinks = [
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "About Us",
   },
 ];
 
@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Feedback",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Get personalized feedback on all of your exercises in real time",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Arweave",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We use Arweave to preserve and build a system of exercises",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Share Video",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Share and receive recordings of your exercises instanteously",
   },
 ];
 
@@ -62,44 +62,36 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Exercise is a powerful tool when used correctly. Make sure that it is used correctly.",
+    name: "Alex Brown",
+    title: "Co-Founder",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Hokies go to the gym!",
+    name: "Soham Patil",
+    title: "Co-Founder",
     img: people02,
-  },
-  {
-    id: "feedback-3",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
   },
 ];
 
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "PT Sessions Per Year",
+    value: "300+ Million",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Seek Medical Attention For Injury Annually",
+    value: "60+ Million",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Injured Due to Incorrect Form",
+    value: "20%+",
   },
 ];
 
@@ -109,23 +101,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "#",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "#",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "#",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "#",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "#",
       },
     ],
   },
@@ -134,23 +126,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "#",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "#",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "#",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "#",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "#",
       },
     ],
   },
@@ -159,11 +151,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "#",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "#",
       },
     ],
   },

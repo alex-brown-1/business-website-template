@@ -1,5 +1,5 @@
 import React from 'react'
-import { card } from '../assets'
+import { working_out2 } from '../assets'
 import Button from './Button'
 import styles, { layout } from '../style'
 
@@ -7,20 +7,21 @@ const CardDeal = () => {
   return (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Find a better card deal <br className='sm:block hidden'/>in few easy steps.</h2>
+        <h2 className={styles.heading2}>Get started exercising <br className='sm:block hidden'/>in few easy steps</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Arcu tortor,
-          purus in mattis at sed integer faucibus.
-          Aliquet quis aliquet eget mauris tortor.ç 
-          Aliquet ultrices ac, ametau.
+          Select your workout exercise, 
+          start recording, and then get 
+          started! You will start getting
+          personalized feedback as soon as 
+          you start exercising.
         </p>
         <Button styles='mt-10'/>
       </div>
       <div className={layout.sectionImg}>
         <img
-          src={card}
-          alt='card'
-          className='w-[100%] h-[100%]'
+          src={working_out2}
+          alt='working out'
+          className='w-[80%] h-[80%]'
         />
       </div>
     </section>

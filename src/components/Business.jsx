@@ -27,12 +27,12 @@ const Business = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>You do the business, <br className='sm:block hidden'/>we'll handle the money.</h2>
+        <h2 className={styles.heading2}>You do the exercises, <br className='sm:block hidden'/>we check them</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, 
-          you can improve your financial life by building credit,
-          earning rewards and saving money.
-          But with hundreds of credit cards on the market.
+          With correct form when exercising, you can reduce chance of injury and
+          increase the benefits of the exercise. Our personalized AI tool tracks 
+          your movement and informs you when you're performing an exercise incorrectly, 
+          with additional tips on how to improve.
         </p>
         <Button styles='mt-10'/>
       </div>
